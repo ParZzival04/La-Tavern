@@ -1,0 +1,13 @@
+name = "La Tavern"
+author = "ParZzival"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f57a0e24576528ec4b7b87eff0b38fe8d9bad4a9668b4c1dd83c96853d27d7ee"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.1"

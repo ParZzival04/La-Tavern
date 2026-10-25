@@ -1,0 +1,13 @@
+name = "Armored Foes"
+filename = "ArmoredFoes-v21.1.0-mc1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ahTPKYtE/versions/HyCslMiW/ArmoredFoes-v21.1.0-mc1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "88e889e5114ff3ec89f3d7dad91cb74eab3573518c8dac111a2eaa8b74618c7d21b5ac59a865158263665586845ea8300be9e084bdf61347dc3209df0c303dca"
+
+[update]
+[update.modrinth]
+mod-id = "ahTPKYtE"
+version = "HyCslMiW"
