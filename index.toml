@@ -10,6 +10,11 @@ hash = "21dfa9e779823eb37404ff87561e83b5169686b518b7e42d20aa72f30f9487d9"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "e71c04679ff75573cd8ef1003eb167830f794b8979f2bdd3c99d28793f2918b0"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "16bf4d365f2dcc840cfb12ff5fcb17e8199dc52f6754f03c530a37d3ef7fed10"
 metafile = true
@@ -315,6 +320,11 @@ hash = "3308b8963f2c7ade76ead2da6c647ddacd3335e783cdd5508e8507179adba408"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-wildernature.pw.toml"
+hash = "ffe8bafbf574e9a2a1091eda6651f920b5e8b7350d7044c4d9f3dadda3ff569c"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "e3e85bd9ce3113b181b8a483b83a13ef390f6a194b9f1ae61f583602f9be7e23"
 metafile = true
@@ -407,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "526c5ab193bb69b5f2a1c660624376e23f44be2377a6b8aaf04178ee300bfdf7"
 metafile = true
 
 [[files]]
