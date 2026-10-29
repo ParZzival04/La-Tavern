@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "26d1d1c0b07979d39ab3d31023edafd3a85bce4a8f21bb5792d372832e14cbe2"
+hash = "9c0fd576ed7814ef5c5ade0fd8b3da8eab2c29fe7fca5185d457ec06e765b229"
 metafile = true
 
 [[files]]
@@ -292,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "a5f1ed5b3a42776a7cd2d7bb2164d0a83e171fbb30ed25a09b670f314797764a"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "39c8caa5ad25fa8f6d341ef1f829602f6eaa14831209f8a1744b61c05dce1382"
 metafile = true
 
 [[files]]
