@@ -85,6 +85,11 @@ hash = "a422ef6a7f82a953641937ef746ee775788d91a219794fc0d4563bbd5c22c947"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "67c1118cf73f03d05acf04cecd18990f8e7be6f2b7a80a40f1e4b9a58f3fb8f6"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "4f27399e9400a258f420278a83180bef71278d67850d0d7e478a41181661e87c"
 metafile = true
@@ -165,6 +170,11 @@ hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "fe1ea345a6ad680c070f4c3e67d070d1751da45f578af22613a4e6ae0586120c"
 metafile = true
@@ -222,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/fryc-mob-variants.pw.toml"
 hash = "daf3f72f08167be2956c8da66e2f0bbc86be0aab4fde3ebda17fdafcc186b417"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "26d1d1c0b07979d39ab3d31023edafd3a85bce4a8f21bb5792d372832e14cbe2"
 metafile = true
 
 [[files]]
@@ -455,6 +470,11 @@ hash = "f93abb9c3f06dfa4ec25f9651487dfa23edbb358fde0cf17606f14cbfaf5db6c"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "8311ceecf046bb70b1ed83b297c268d2084fcb256ff6dd111f20308b2e780727"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "d22546ad55b555931eb527f163b3564e00c12c7dc8101378b87447dfcc8e0652"
 metafile = true
@@ -565,6 +585,16 @@ hash = "919153a4c85c7b33c97ac722d95b001c34903368880b144388c6d20cb77c19dc"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "ebabdbb621695e469e90e3535864975b6f3735dfa5ee9f87d31030a2a62761c7"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "604c61f3caadb7f3a5eb2991d84fa56655faa2f7e6e98d13d3027659cfcf00b1"
 metafile = true
@@ -585,6 +615,11 @@ hash = "a9afe82b3d1b4975dd9f8b3272898450aeb29365678b3779059977301f88c101"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "ba23aeeab120d079eb6b5d6058643ea15e6a81bc5b4cfed85c75dea8b0d2029f"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "76c319b18147464969222ce63823f32ea49d87e337d6c82b20568efe0ef2f331"
 metafile = true
@@ -597,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "1d35cd67870d906d66d40bae2be65b2ba7275f4fac2bdaef2e603987767b5f7d"
+metafile = true
+
+[[files]]
+file = "mods/veinmine.pw.toml"
+hash = "9d911c63c27d2125987bc3ba055df9d0b855cd93b8e65bc478f7e3035a4e3ee3"
 metafile = true
 
 [[files]]
