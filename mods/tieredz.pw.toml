@@ -1,0 +1,13 @@
+name = "TieredZ"
+filename = "tiered-1.3.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z6sMEexp/versions/4i8UQziV/tiered-1.3.9.jar"
+hash-format = "sha512"
+hash = "a41b6e5b3e18334486b68559afa4af50e73bc70af3b213b99a3fa6eeb8de198870caa0f5d8926c974a5ed13802703a3de61dae0a10d07b847c4a1d65d2a9067b"
+
+[update]
+[update.modrinth]
+mod-id = "z6sMEexp"
+version = "4i8UQziV"

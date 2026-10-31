@@ -330,6 +330,11 @@ hash = "e3e85bd9ce3113b181b8a483b83a13ef390f6a194b9f1ae61f583602f9be7e23"
 metafile = true
 
 [[files]]
+file = "mods/libz.pw.toml"
+hash = "fca1e3549c91656de49241b967d3e693d3ed11d1181a6b651f0aef38c5aa2c65"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
@@ -627,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "66e1ed3e329e3ffa72a59acf74fae153157e6fb7d836afedb687b61ec2d8113a"
+metafile = true
+
+[[files]]
+file = "mods/tieredz.pw.toml"
+hash = "ee6c20ec310168b0939c2024c92582fde4e3b17f029bbdfe4ef8719ad94b10c2"
 metafile = true
 
 [[files]]
