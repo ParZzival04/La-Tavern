@@ -620,6 +620,11 @@ hash = "7722a9dfc9d90ac909354489a4a40011e59b6b50cc1bed09f4ef533a3534b531"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "c7472ae71ab0b72df30939071422b0df04428e1e187a080f1e5f1df0cb1f2465"
+metafile = true
+
+[[files]]
 file = "mods/structory-towers.pw.toml"
 hash = "0f4f506b1171a3a7d7b73150721075f5b1bc703c043fa539bcdd72c93e665b94"
 metafile = true
