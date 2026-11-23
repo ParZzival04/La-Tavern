@@ -1,0 +1,13 @@
+name = "[Let's Do] Foundation"
+filename = "letsdo-foundation-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fUmGbGfK/versions/m8xoJDLo/letsdo-foundation-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "f668769da20a6fae174bdaae0c095ba538aa1a6d7ac5f4b647b587b50bdae402e452a70d7579ed8d96bbc4a755bff7d4065d0a12df18065dbb6837463b59fb11"
+
+[update]
+[update.modrinth]
+mod-id = "fUmGbGfK"
+version = "m8xoJDLo"

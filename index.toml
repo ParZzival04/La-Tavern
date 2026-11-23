@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "86eb289f405a8c300700112057a299836212fac131dbd92c6301ad8193e2adec"
+hash = "039a11f7ec73b91b285f9c290ff5e27adb7b379811f66afdadd4b86439c107f3"
 metafile = true
 
 [[files]]
@@ -347,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
 hash = "10155b18324671dc0c7737088556ceccf09d30e98b28f30dc5526743fb05c1b7"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-foundation.pw.toml"
+hash = "f6b07784c49b647c0122fba1f6093391188b62fbf00c6fbec5afa8b09eea6804"
 metafile = true
 
 [[files]]
