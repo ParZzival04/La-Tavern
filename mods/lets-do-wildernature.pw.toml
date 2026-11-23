@@ -1,13 +1,13 @@
 name = "[Let's Do] WilderNature"
-filename = "letsdo-wildernature-fabric-1.1.8.jar"
+filename = "letsdo-wildernature-fabric-1.1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AAiRU4aQ/versions/z8Eb5lpS/letsdo-wildernature-fabric-1.1.8.jar"
+url = "https://cdn.modrinth.com/data/AAiRU4aQ/versions/ljrLExc4/letsdo-wildernature-fabric-1.1.9.jar"
 hash-format = "sha512"
-hash = "5fd08eabe64a89cbfbc737606eac1809f4acf4533e2718414cef6019ea4fbc1b7532376c68775dfdce11ebe1153547019fbe6dfa5b2c0a3cfd4b6b97ef2975be"
+hash = "87ed1c2baed427dcfdbe3c22aef7136eba51d720641f362f6acfae03bf0f87c2ee2e0320b20fb4a0f34625a265819f5c92ade31bc99ed0947caf1e14ae8c9ca8"
 
 [update]
 [update.modrinth]
 mod-id = "AAiRU4aQ"
-version = "z8Eb5lpS"
+version = "ljrLExc4"
