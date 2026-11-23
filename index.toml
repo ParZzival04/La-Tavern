@@ -80,11 +80,6 @@ hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
-file = "mods/borderless-fullscreen.pw.toml"
-hash = "f24d29c38962a41c1b8a4742b527e79c06e2cb9c903a3f90dfe180b882ec06a6"
-metafile = true
-
-[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "a422ef6a7f82a953641937ef746ee775788d91a219794fc0d4563bbd5c22c947"
 metafile = true
@@ -150,6 +145,11 @@ hash = "1e6539428f7965b0557316353e46333b7312d62437cf232a342ae3c3b9015a7a"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "cd36c4dfe665aef808b84f2de77b052190774b8ad4cd2c482136af73b61359db"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "dfb4f7eea39308946f2da968590da7bf1b8af3c01bfdecbb5e059fbded12027f"
 metafile = true
@@ -157,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "d056036f71ac0fe66147f415e0142c1fd8889c065b7f1e5880ad3d46c583136f"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "ece11e6e420ae2ef53325bd74c368e5f582dcc950a7722b2151ce3f9662cd0e7"
 metafile = true
 
 [[files]]
